@@ -121,7 +121,7 @@ with st.sidebar:
     st.download_button("⬇️ Download CSV", csv, "wedding_guests.csv", "text/csv")
 
 # --- MAIN APP UI ---
-st.title("💍 Wedding Planner Ultimate")
+st.title("Vignesh Wedding Planner 💍")
 
 # Tabs
 tab1, tab2, tab3 = st.tabs(["📊 Dashboard & Logistics", "🍽️ Catering & Rooms", "📋 Master Guest List"])
